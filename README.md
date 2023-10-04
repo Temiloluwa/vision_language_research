@@ -4,6 +4,6 @@
 
 My Vision Language Research and Development Repo 
 
-## Add your files
+## Projects
 
-- [ ] [nano gpt](https://github.com/Temiloluwa/nano_gpt) 
+- [ ] [Nano GPT](https://github.com/Temiloluwa/nano_gpt) 
