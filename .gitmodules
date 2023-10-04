@@ -1,0 +1,3 @@
+[submodule "nano_gpt"]
+	path = nano_gpt
+	url = ../nano_gpt.git
